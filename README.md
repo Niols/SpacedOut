@@ -1,5 +1,8 @@
 # SpacedOut
 
+> [!WARNING]
+> This repository has been merged into [niols/camelotte](https://github.com/niols/camelotte). It is unmaintained.
+
 SpacedOut is a library that helps you read and write space-separated data files.
 I wrote it initially as a helper library to parse and produce files in the (now
 discontinued) [Hash Code programming competition]. For instance, Hash Code 2021
